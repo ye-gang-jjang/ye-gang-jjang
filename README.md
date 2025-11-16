@@ -1,8 +1,8 @@
 ## Projects
-|이름|한줄소개|주요 구현 내용|
-|------|---|---|
-|[Dorae 도래](https://github.com/ye-gang-jjang/2024-MC2-A4-HATVIMILHARA)|글로 쓴 전통매듭 도안을 이미지 도안으로 보여주고, 도안의 결과물을 시각적으로 확인하며 매듭을 디자인할 수 있는 앱|데이터 모델링, 글 도안 뷰 개발|
 |[Solog 소록](https://github.com/ye-gang-jjang/2024-MacC-A16-AGAMI)|기억하고 싶은 순간을 노래와 사진으로 기록하는 앱|지도, 사용자 페이지, 카메라 뷰 개발|
+
+
+[**Dorae 도래**](https://github.com/ye-gang-jjang/2024-MC2-A4-HATVIMILHARA) - 글로 쓴 전통매듭 도안을 이미지 도안으로 보여주고, 도안의 결과물을 시각적으로 확인하며 매듭을 디자인할 수 있는 서비스<sub>(2024.04 - 진행중)</sub>
 
 ## Experiences
 - **Apple Developer Academy@POSTECH** - 3rd Junior Learner <sub>(2024.03. ~ 2024.12.)</sub>
