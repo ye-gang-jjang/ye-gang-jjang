@@ -30,5 +30,8 @@
     <div style="text-align: left;"> <a href=https://ye-gang.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://ye-gang.tistory.com/"> </a>
          <a href=mailto:yeggang0602@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:yeggang0602@gmail.com"> </a>
           </div>  <br> 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{gjdprkd})
+
+## Solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kirin2211)](https://solved.ac/gjdprkd)
     
