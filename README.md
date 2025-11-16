@@ -1,14 +1,13 @@
-<div align="center">
-  ### Raf
- <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
- <img src="https://img.shields.io/badge/swiftUI-026ffd?style=for-the-badge&logo=swift&logoColor=white"> 
- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
- </div>
-
 ## Projects
 
+
+
+
+
 ## Experiences
+- Apple Developer Academy @ POSTECH 3기<sub>(2024.03. ~ 2024.12.)</sub>
+- 선도소프트 - Gis 인턴 <sub>(2022.07. ~ 2024.11.)</sub>
+
 
 
 
