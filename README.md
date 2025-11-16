@@ -30,12 +30,5 @@
     <div style="text-align: left;"> <a href=https://ye-gang.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://ye-gang.tistory.com/"> </a>
          <a href=mailto:yeggang0602@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:yeggang0602@gmail.com"> </a>
           </div>  <br> 
-    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fye-gang-jjang%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=ye-gang-jjang&custom_title=ye-gang-jjang's Github Stat&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye-gang-jjang&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{gjdprkd})
     
