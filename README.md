@@ -5,8 +5,7 @@
 
 
 ## Experiences
-- <img width="24px" src="https://github.com/user-attachments/assets/d42e2a77-e73c-4b91-85f7-20054b49a0ed" align="left"> **선도소프트** - Gis Intern <sub>(2022.07. ~ 2024.11.)</sub>
-- 선도소프트 <sub>(2022.07. ~ 2024.11.)</sub>
+- **선도소프트** - Gis Intern <sub>(2022.07. ~ 2024.11.)</sub>
 - 핏소프트 <sub>(2021.07. ~ 2021.08.)</sub>
 - 한국재정정보원 <sub>(2021.03. ~ 2021.06.)</sub>
 - 에이스택 <sub>(2020.07. ~ 2020.08.)</sub>
